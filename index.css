@@ -82,7 +82,7 @@
         }
 
         .search-bar button {
-            margin-left: -50px;
+            margin-left: -40px;
             background: var(--secondary);
             color: white;
             border: none;
@@ -270,6 +270,7 @@
         }
 
          .category-card:hover {
+            background: var(--secondary);
             transform: translateY(-10px) rotate(2deg);
             box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
         }
